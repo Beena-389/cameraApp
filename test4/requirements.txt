@@ -10,7 +10,4 @@ scikit-learn
 matplotlib
 pandas
 pickle5
-Thread
-os
-system
 datetime
